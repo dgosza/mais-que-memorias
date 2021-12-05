@@ -10651,7 +10651,7 @@ fieldset:disabled .btn {
     }
 
     .mb-xl-1 {
-        margin-bottom: 0.25rem !important4;
+        margin-bottom: 0.25rem !important;
     }
 
     .mb-xl-2 {
@@ -11652,13 +11652,12 @@ p {
 }
 .section-heading .section-heading-lower {
     display: block;
-    font-size: 23px;
+    font-size: 2rem;
     font-weight: 100;
 }
 
 .bg-faded {
     background-color: #f6e1c5;
-    /* height: 400px; */
 }
 
 .btn-xl {
@@ -11899,4 +11898,8 @@ p {
         top: 0;
         opacity: 1;
     }
+}
+
+.person-information {
+    text-align: right;
 }
